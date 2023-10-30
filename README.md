@@ -16,3 +16,5 @@ Action (A): The set of possible choices or decisions the agent can make. Actions
 Policy (π): The strategy or mapping that the agent uses to determine which actions to take in a given state. The policy defines the agent's behavior.
 
 Reward (R): A numerical value provided by the environment that evaluates the desirability of the agent's actions. The agent's objective is to maximize the cumulative reward over time.
+
+**2. Optimizing Model **
